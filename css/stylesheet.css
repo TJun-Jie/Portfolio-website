@@ -3336,3 +3336,7 @@ input:-internal-autofill-selected {
 .github-link {
   color: red;
 }
+
+.last-image{
+  margin-right: 1px;
+}
